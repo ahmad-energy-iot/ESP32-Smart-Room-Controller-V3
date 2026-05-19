@@ -193,14 +193,6 @@ import ssd1306
 
 Zusätzlich muss die Datei `ssd1306.py` auf den ESP32 hochgeladen werden.
 
----
-
-# Vollständiger MicroPython Code
-
-```python
-# Full ESP32 Smart Room Controller V3 Source Code
-# OLED + WiFi Dashboard + RGB + PIR + LDR + Web Control
-```
 
 ---
 
@@ -403,14 +395,6 @@ import ssd1306
 
 Additionally, the `ssd1306.py` file must be uploaded to the ESP32 board.
 
----
-
-# Full MicroPython Source Code
-
-```python
-# Full ESP32 Smart Room Controller V3 Source Code
-# OLED + WiFi Dashboard + RGB + PIR + LDR + Web Control
-```
 
 ---
 
