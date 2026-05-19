@@ -2,7 +2,7 @@
 
 ---
 
-#  Deutsche Version
+# 🇩🇪 Deutsche Version
 
 ## Projektbeschreibung
 
@@ -44,10 +44,10 @@ Das Projekt kombiniert moderne IoT-Technologien, Smart-Home-Automatisierung, Sen
 | PIR Motion Sensor | Bewegungserkennung |
 | LDR Sensor | Umgebungshelligkeit messen |
 | RGB LED (Common Anode) | Status- und Lichtanzeige |
-| Push Button | Manuelle Steuerung |
 | Breadboard | Schaltungsaufbau |
 | Jumper Kabel | Elektrische Verbindungen |
 | Widerstände | Schutz der RGB-LED |
+| WiFi Web Dashboard | Fernsteuerung des Systems |
 
 ---
 
@@ -212,7 +212,7 @@ Renewable Energy Manager | IoT & Smart Energy Systems Developer
 
 ---
 
-#  English Version
+# 🇬🇧 English Version
 
 ## Project Description
 
@@ -254,10 +254,10 @@ The project combines modern IoT technologies, smart home automation, sensor inte
 | PIR Motion Sensor | Motion detection |
 | LDR Sensor | Ambient light sensing |
 | RGB LED (Common Anode) | Lighting and status indication |
-| Push Button | Manual control |
 | Breadboard | Circuit assembly |
 | Jumper Wires | Electrical connections |
 | Resistors | RGB LED protection |
+| WiFi Web Dashboard | Remote system control |
 
 ---
 
@@ -272,7 +272,6 @@ The project combines modern IoT technologies, smart home automation, sensor inte
 | LDR Sensor AO | GPIO34 |
 | OLED SDA | GPIO32 |
 | OLED SCL | GPIO33 |
-| Push Button | GPIO25 |
 
 ---
 
