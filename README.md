@@ -62,7 +62,6 @@ Das Projekt kombiniert moderne IoT-Technologien, Smart-Home-Automatisierung, Sen
 | LDR Sensor AO | GPIO34 |
 | OLED SDA | GPIO32 |
 | OLED SCL | GPIO33 |
-| Push Button | GPIO25 |
 
 ---
 
