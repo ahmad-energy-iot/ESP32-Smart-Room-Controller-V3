@@ -2,7 +2,7 @@
 
 ---
 
-# 🇩🇪 Deutsche Version
+#  Deutsche Version
 
 ## Projektbeschreibung
 
@@ -212,7 +212,7 @@ Renewable Energy Manager | IoT & Smart Energy Systems Developer
 
 ---
 
-# 🇬🇧 English Version
+#  English Version
 
 ## Project Description
 
